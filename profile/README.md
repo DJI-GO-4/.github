@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-<a href="https://dji-go-4.github.io/.github">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Google_Play_Store_badge_EN.svg" width="140">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_(iOS)_logo.svg" width="120">
-</a>
+  <a href="https://dji-go-4.github.io/.github">
+    <img src="https://img.shields.io/badge/Скачать_DFU--Util-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать DFU-Util">
+  </a>
 </div>
+
 
 ---
 
